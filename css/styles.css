@@ -1,0 +1,33 @@
+body {
+  background-color: #B6BC99;
+  margin: 50px;
+}
+
+h1 {
+  font-family: Times New Roman;
+  color: #064A51;
+}
+img{
+  max-width: 450px;
+  max-height: 300px;
+
+}
+h2 {
+  font-family: Times New Roman;
+  color: #0997A5;
+}
+h3 {
+  font-family: Times New Roman;
+  color: #08A07D;
+}
+p{
+font-family: serif;
+font-size: 16px;
+}
+.strong{
+  font-weight: bold;
+  color: #032846;
+}
+.column{
+  float: right;
+}
